@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Descarga e Instalacion"
+    url: /install/
 
-  - title: "Instalación"
-    url: /install/    
+  - title: "Atajos basicos"
+    url: /basic/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Funciones Premium"
+    url: /premium/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Para ver"
+    url: /videos/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Privacy"
+    url: /privacy/
