@@ -47,7 +47,7 @@
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
       {% if author.google_plus %}
-        <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
+        <li><a href="{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
       {% endif %}
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
@@ -110,7 +110,7 @@
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i>NKF Github.io</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
