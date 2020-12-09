@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Atajos Básicos"
 permalink: /atajos/
 author_profile: true
