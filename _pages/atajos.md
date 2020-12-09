@@ -12,16 +12,16 @@ Cada atajo funciona en una pagina diferente, los atajos de buscar, puja minima/m
 
 ### Atajos
 
-| Nombre            | Tipo   | ¿Donde se usa?                                               |
+| Nombre            | Tipo   | ¿Donde se usa? Mas...                                               |
 | --------         | ------ | ------------------------------------------------------------ |
 | Buscar    | FREE   | Se usa en la pagina de busqueda de transferencias                          |
 | Puja Minima (+/-)    | FREE   | Se usa en la pagina de busqueda de transferencias                         |
 | Puja Maxima (+/-)     | FREE   | Se usa en la pagina de busqueda de transferencias                        |
 | Compra ya minima (+/-)     | FREE   | Se usa en la pagina de busqueda de transferencias                         |
 | Compra ya maxima (+/-)      | FREE   | Se usa en la pagina de búsqueda de transferencias                        |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Ir a ver el precio     | FREE   |  Se usa cuando has selecionado una carta de jugador, vas a ver el precio en FUTBIN                          |
+| Compra ya     | FREE   | Description of the item in the list                          |
+| Pujar (Puja Maxima)     | FREE   | Se puja por el precio que pusiste en Puja maxima, se usa en la pagina de transferencias                           |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
