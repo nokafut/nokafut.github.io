@@ -12,4 +12,8 @@ Cada atajo funciona en una pagina diferente, los atajos de buscar, puja minima/m
 
 Herramientas
 ======
-Cada atajo funciona en una pagina diferente, los atajos de buscar, puja minima/maxima y demas se usan en la pagina. Los atajos son botones que se usan con las teclas.
+| Atajo            | Donde se usa                                                 |
+| --------         | ------------------------------------------------------------ |
+| Buscar           | Description of the item in the list                          |
+| [Jane Doe](#)    | Description of the item in the list                          |
+| [Doe Doe](#)     |  Description of the item in the list                         |
