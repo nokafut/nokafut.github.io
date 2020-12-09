@@ -10,7 +10,13 @@ author_profile: true
 
 Cada atajo funciona en una pagina diferente, los atajos de buscar, puja minima/maxima y demas se usan en la pagina correspondiente. Por ejemplo el atajo de ver el numero total de no asignados se usa en la pagina de "No asignados". Los atajos son botones que se usan con las teclas.
 
+### Atajos
 
+| Atajo            | Tipo   | ¿Donde se usa?                                               |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 ### Herramientas
 
