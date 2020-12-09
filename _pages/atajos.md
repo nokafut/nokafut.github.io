@@ -14,9 +14,18 @@ Cada atajo funciona en una pagina diferente, los atajos de buscar, puja minima/m
 
 | Atajo            | Tipo   | ¿Donde se usa?                                               |
 | --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| Buscar    | FREE   | Se usa en la pagina de busqueda de transferencias                          |
+| Puja Minima (+/-)    | FREE   | Se usa en la pagina de busqueda de transferencias                         |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
 
 ### Herramientas
 
