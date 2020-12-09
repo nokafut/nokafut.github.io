@@ -21,3 +21,5 @@ Para descargar e instalar la extensión debes ir a [Nokafut Chrome Extension](ht
 Configuración
 ======
 Para configurar solo debes agregar teclas de tu teclado a las acciones que quieras hacer. Acuerdate de dar a guardar despues de agregar todas las teclas. Recuerda que esto debes hacerlo siempre con la WebApp abierta.
+
+Esta extension esta en Ingles y Español. Esta ayuda esta solamente en Español. Utiliza Google Translate para traducirla.
