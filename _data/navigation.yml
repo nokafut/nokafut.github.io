@@ -1,16 +1,14 @@
 # main links links
 main:
-  - title: "Descarga e Instalacion"
-    url: /install/
 
-  - title: "Atajos basicos"
-    url: /basic/    
+  - title: "Atajos"
+    url: /atajos/
 
-  - title: "Funciones Premium"
-    url: /premium/    
-    
+  - title: "Premium"
+    url: /premium/
+
   - title: "Para ver"
     url: /videos/
-    
+
   - title: "Privacy"
     url: /privacy/

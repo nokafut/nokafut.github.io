@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  atajos:
     output: true
     permalink: /:collection/:path/
 
@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _atajos
   - scope:
       path: ""
-      type: talks
+      type: atajos
     values:
-      layout: talk
+      layout: atajos
       author_profile: true
       share: true
 
