@@ -3,9 +3,6 @@ permalink: /
 title: "¿Que es Nokafut? ¿Para que sirve?"
 excerpt: "NokaFut"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 
