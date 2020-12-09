@@ -18,7 +18,7 @@ Cada atajo funciona en una pagina diferente, los atajos de buscar, puja minima/m
 | Puja Minima (+/-)    | FREE   | Se usa en la pagina de busqueda de transferencias                         |
 | Puja Maxima (+/-)     | FREE   | Se usa en la pagina de busqueda de transferencias                        |
 | Compra ya minima (+/-)     | FREE   | Se usa en la pagina de busqueda de transferencias                         |
-| Compra ya maxima (+/-)      | FREE   | Se usa en la pagina de busqueda de transferencias                        |
+| Compra ya maxima (+/-)      | FREE   | Se usa en la pagina de búsqueda de transferencias                        |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
