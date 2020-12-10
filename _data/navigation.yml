@@ -7,6 +7,9 @@ main:
   - title: "Premium"
     url: /premium/
 
+  - title: "Mobile"
+    url: /mobile/
+
   - title: "Para ver"
     url: /videos/
 

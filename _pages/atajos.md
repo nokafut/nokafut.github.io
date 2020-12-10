@@ -1,7 +1,7 @@
 ---
-title: "Atajos Básicos"
+title: "Atajos"
 permalink: /atajos/
-excerpt: "NokaFut Atajos Básicos"
+excerpt: "NokaFut Atajos"
 author_profile: true
 ---
 
@@ -20,9 +20,10 @@ Cada atajo funciona en una pagina diferente, los atajos de buscar, puja minima/m
 | Compra ya minima (+/-)     | FREE   | Se usa en la pagina de busqueda de transferencias                         |
 | Compra ya maxima (+/-)      | FREE   | Se usa en la pagina de búsqueda de transferencias                        |
 | Ir a ver el precio     | FREE   |  Se usa cuando has selecionado una carta de jugador, vas a ver el precio en FUTBIN                          |
-| Compra ya     | FREE   | Description of the item in the list                          |
+| Compra ya     | FREE   | Se usa en resultados de busqueda para pulsar el boton de compra ya                          |
+| Pujar     | FREE   | Se usa en resultados de busqueda para pulsar de pujar                          |
 | Pujar (Puja Maxima)     | FREE   | Se puja por el precio que pusiste en Puja maxima, se usa en la pagina de transferencias                           |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Confirmar Compra     | FREE   | Se usa en resultados de busqueda para confirmar la compra                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
