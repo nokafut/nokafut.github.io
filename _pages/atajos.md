@@ -31,23 +31,15 @@ Cada atajo funciona en una pagina diferente, los atajos de buscar, puja minima/m
 | Atrás     | FREE   | Sirve para pulsar el botón de navegación Atras                         |
 | Anterior/Siguiente pagina     | FREE   | En la lista de cartas pasar paginas hacia adelante o hacia detrás                           |
 | Anterior/Siguiente carta     | FREE   | En la lista de cartas pasar cartas hacia arriba o hacia abajo                           |
+| Ver/Ocultar Metodo NOLTOK     | FREE   | Se activa en la pagina de búsqueda de transferencias                           |
 
 
 ### Herramientas
 
-Cada atajo funciona en una pagina diferente, los atajos de buscar, puja minima/maxima y demas se usan en la pagina. Los atajos son botones que se usan con las teclas.
+Hay diferentes herrramientas que te ayudaran en la WebApp ......
 
 
 
 ### Funciones
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
+Tambien tienes funciones rapidas que haran ser mas rapido en la WebApp
