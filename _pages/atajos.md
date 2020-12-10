@@ -14,18 +14,23 @@ Cada atajo funciona en una pagina diferente, los atajos de buscar, puja minima/m
 
 | Nombre            | Tipo   | ¿Donde se usa? Mas...                                               |
 | --------         | ------ | ------------------------------------------------------------ |
-| Buscar    | FREE   | Se usa en la pagina de busqueda de transferencias                          |
-| Puja Minima (+/-)    | FREE   | Se usa en la pagina de busqueda de transferencias                         |
-| Puja Maxima (+/-)     | FREE   | Se usa en la pagina de busqueda de transferencias                        |
-| Compra ya minima (+/-)     | FREE   | Se usa en la pagina de busqueda de transferencias                         |
+| Buscar    | FREE   | Se usa en la pagina de búsqueda de transferencias                          |
+| Puja Minima (+/-)    | FREE   | Se usa en la pagina de búsqueda de transferencias                         |
+| Puja Maxima (+/-)     | FREE   | Se usa en la pagina de búsqueda de transferencias                        |
+| Compra ya minima (+/-)     | FREE   | Se usa en la pagina de búsqueda de transferencias                         |
 | Compra ya maxima (+/-)      | FREE   | Se usa en la pagina de búsqueda de transferencias                        |
-| Ir a ver el precio     | FREE   |  Se usa cuando has selecionado una carta de jugador, vas a ver el precio en FUTBIN                          |
-| Compra ya     | FREE   | Se usa en resultados de busqueda para pulsar el boton de compra ya                          |
-| Pujar     | FREE   | Se usa en resultados de busqueda para pulsar de pujar                          |
+| Ir a ver el precio     | FREE   |  Se usa cuando has seleccionado una carta de jugador, vas a ver el precio en FUTBIN                          |
+| Compra ya     | FREE   | Se usa en resultados de búsqueda para pulsar el botón de compra ya                          |
+| Pujar     | FREE   | Se usa en resultados de búsqueda para pulsar de pujar                          |
 | Pujar (Puja Maxima)     | FREE   | Se puja por el precio que pusiste en Puja maxima, se usa en la pagina de transferencias                           |
-| Confirmar Compra     | FREE   | Se usa en resultados de busqueda para confirmar la compra                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Confirmar Compra     | FREE   | Se usa en resultados de búsqueda para confirmar la compra                          |
+| Comparar precio     | FREE   | Se usa en resultados de búsqueda para pulsar de pujar                          |
+| Enviar a lista de transferibles     | FREE   | Cuando se adquiere una carta, pulsando el atajo se envía a la lista de transferibles                           |
+| Enviar al club     | FREE   | Cuando se adquiere una carta, pulsando el atajo se envía al club                          |
+| Seguir     | FREE   | Se usa cuando has seleccionado una carta de jugador, das al botón seguir                          |
+| Atrás     | FREE   | Sirve para pulsar el botón de navegación Atras                         |
+| Anterior/Siguiente pagina     | FREE   | En la lista de cartas pasar paginas hacia adelante o hacia detrás                           |
+| Anterior/Siguiente carta     | FREE   | En la lista de cartas pasar cartas hacia arriba o hacia abajo                           |
 
 
 ### Herramientas

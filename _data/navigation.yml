@@ -10,8 +10,11 @@ main:
   - title: "Mobile"
     url: /mobile/
 
-  - title: "Para ver"
+  - title: "Actualizaciones"
+    url: /version/
+
+  - title: "Videos y mas"
     url: /videos/
 
-  - title: "Privacy"
+  - title: "Privacidad"
     url: /terms/
