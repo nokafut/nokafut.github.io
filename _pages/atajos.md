@@ -1,5 +1,5 @@
 ---
-title: "Atajos"
+title: "ATAJOS"
 permalink: /atajos/
 excerpt: "NokaFut Atajos"
 author_profile: true
@@ -8,7 +8,7 @@ author_profile: true
 
 Nokafut tiene dos tipos de funcionalidades, las básicas, que son comunes para todos y las Premium, para aquellos que decidan pagar la suscripción, cuyo precios podéis ver en el apartado Premium de la misma. A continuación, vamos a explicar <b>las básicas</b>, cada una con un uso concreto, pero partiendo todas de la misma base, <b>asignar una función concreta a la tecla del teclado que elijamos</b>. Algo que nos permite movernos por los diferentes menús, cartas, comprar, pujar, etc … de una forma mucho más ágil de la que nos permite el ratón.
 
-<b>IMPORTANTE: GUARDAR SIEMPRE DESPUÉS DE ELEGIR CADA CONFIGURACIÓN DE LA EXTENSIÓN.</b>
+<b>Importante: Guardar siempre después de elegir cada configuración de la extension</b>
 
 ### MERCADO DE TRANSFERENCIAS
 
