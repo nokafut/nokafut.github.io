@@ -1,6 +1,6 @@
 ---
 title: "MEDIA"
-permalink: /media/
+permalink: /videos/
 excerpt: "NokaFut Media"
 author_profile: true
 ---
