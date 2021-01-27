@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NokaFut Tweak"
+title                    : "NOKAFUT"
 title_separator          : "-"
 name                     : &name "Noka"
 description              : &description "Esto y mucho mas"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "NokaFut Tweak"
+  name             : "NOKA"
   avatar           : "logo-artwork.jpg"
-  bio              : "Productivity everyone for WebApp FIFA21"
+  bio              : "Best Tool for WebApp FIFA21"
   location         : "Spain"
   employer         :
   pubmed           :

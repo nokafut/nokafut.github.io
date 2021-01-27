@@ -1,23 +1,23 @@
 # main links links
 main:
 
-  - title: "Atajos"
+  - title: "ATAJOS"
     url: /atajos/
 
-  - title: "Funciones"
+  - title: "FUNCIONES/HERRAMIENTAS"
     url: /funciones/
 
-  - title: "Premium"
+  - title: "PREMIUM"
     url: /premium/
 
-  - title: "Mobile"
+  - title: "ANDROID"
     url: /mobile/
 
-  - title: "Actualizaciones"
+  - title: "VERSIONES"
     url: /version/
 
-  - title: "Videos y mas"
+  - title: "MEDIA"
     url: /videos/
 
-  - title: "Privacidad"
+  - title: "PRIVACIDAD"
     url: /terms/
