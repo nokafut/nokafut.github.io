@@ -27,3 +27,12 @@ Una vez en la [WebApp de FIFA21](https://www.ea.com/en-gb/fifa/ultimate-team/web
 La extensión está disponible tanto en inglés como español. Actualmente la información sólo se encuentra disponible en español, puedes traducirla con Google Translate.
 
 The addon is alvaiable in English and Spanish. Now, this info is only available in Spanish, you can translate it using Google Translate.
+
+COLABORADORES
+======
+
+Información recopilada por [Miguel Angel](https://www.twitter.com/tortugaelefante/)
+Diseño [Miguel J Rojas](https://www.twitter.com/migueljrojas/)
+Streamers [ItsAMaro](https://twitter.com/ItsAMaro2) [Javi Colme](https://twitter.com/JavierColme_) 
+
+Si quieres aparecer aqui y crees que has colaborado, contacta conmigo.
