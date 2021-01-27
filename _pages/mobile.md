@@ -11,4 +11,6 @@ Para la versión móvil (Premium), disponible actualmente sólo para Android, te
 Podeis ver un video rápido aqui ... [Nokafut Android Mobile](https://twitter.com/nokafut/status/1320784308857151494?s=21)
 
 
+![Android Nokafut](/images/android.png)
+
 Para iOS no es posible agregar chrome extensions en ningún navegador que se instale en iphone o ipad. Habra que esperar a que Apple lo permita.
