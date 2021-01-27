@@ -5,8 +5,9 @@ excerpt: "NokaFut"
 author_profile: true
 ---
 
+[Nokafut](https://chrome.google.com/webstore/detail/noka-fut-tweak/lphngfbnndkhdbmbgnlnhngihcpofkno) es una extensión para Google Chrome cuyo objetivo es facilitar y mejorar la utilización de la [WebApp de FIFA21](https://www.ea.com/en-gb/fifa/ultimate-team/web-app/) Ultimate Team. Esto se realiza, en gran parte, gracias al uso de atajos del teclado, evitando tener que hacer estas acciones de forma más lenta con el ratón, además, se añaden algunas herramientas y opciones que mejoran notablemente la aplicación creada por EA.
 
-[Nokafut](https://chrome.google.com/webstore/detail/noka-fut-tweak/lphngfbnndkhdbmbgnlnhngihcpofkno) es una extension de Google Chrome que te ayudara a ser mas productivo en la [WebApp de FIFA21](https://www.ea.com/en-gb/fifa/ultimate-team/web-app/). No es un BOT, ni nada que se le parezca. Las acciones las hace el usuario y no esta automatizado la compra de ninguna carta.
+<kbd>Nota aclaratoria: Nokafut en ningún momento hace uso de bots u otro tipo de elemento ilegal</kbd>.
 
 Para ello tiene atajos, que son las acciones que hace el usuario con el ratón hacerla con teclas de tu teclado. Se puede configurar como uno quiera, y es muy facil de utilizar. Tambien tiene otras funcionalidades que te haran usar mucho mas facil la WebApp.
 
