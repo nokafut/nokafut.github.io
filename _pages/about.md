@@ -7,7 +7,7 @@ author_profile: true
 
 [Nokafut](https://chrome.google.com/webstore/detail/noka-fut-tweak/lphngfbnndkhdbmbgnlnhngihcpofkno) es una extensión para Google Chrome cuyo objetivo es facilitar y mejorar la utilización de la [WebApp de FIFA21](https://www.ea.com/en-gb/fifa/ultimate-team/web-app/) Ultimate Team. Esto se realiza, en gran parte, gracias al uso de atajos del teclado, evitando tener que hacer estas acciones de forma más lenta con el ratón, además, se añaden algunas herramientas y opciones que mejoran notablemente la aplicación creada por EA.
 
-<kbd>Nota aclaratoria: Nokafut en ningún momento hace uso de bots u otro tipo de elemento ilegal</kbd>.
+<b>Nota aclaratoria: Nokafut en ningún momento hace uso de bots u otro tipo de elemento ilegal</b>.
 
 
 
@@ -20,6 +20,7 @@ Para instalarla, simplemente debemos acudir a [Nokafut Chrome Extension](https:/
 
 CONFIGURACIÓN
 ======
-Una vez en la [WebApp de FIFA21](https://www.ea.com/en-gb/fifa/ultimate-team/web-app/) podremos configurar las diferentes opciones que nos da la extensión, ya sean funciones de teclas o las funciones premium. Muy importante, hay que darle a guardar SIEMPRE, después de cualquier modificación, además de hacer las mismas con la WebApp abierta.
+Una vez en la [WebApp de FIFA21](https://www.ea.com/en-gb/fifa/ultimate-team/web-app/) podremos configurar las diferentes opciones que nos da la extensión, ya sean funciones de teclas o las funciones premium. <b>Muy importante, hay que darle a guardar SIEMPRE, después de cualquier modificación, además de hacer las mismas con la WebApp abierta.</b>
+
 La extensión está disponible tanto en inglés como español. Actualmente la información sólo se encuentra disponible en español, puedes traducirla con Google Translate.
 The addon is alvaiable in English and Spanish. Now, this info is only available in Spanish, you can translate it using Google Translate.
