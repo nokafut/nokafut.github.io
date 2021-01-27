@@ -7,7 +7,7 @@ author_profile: true
 
 ### HERRAMIENTAS
 
-Las herramientas son las más complejas, se encargan de realizar una acción específica a través de una interfaz nueva para cada una de ellas. Son funciones extra añadidas por la extensión Nokafut y que no están disponibles en la versión básica de la web app. 
+Las herramientas son las más complejas, se encargan de realizar una acción específica a través de una interfaz nueva para cada una de ellas. Son funciones extra añadidas por la extensión Nokafut y que no están disponibles en la versión básica de la web app.
 
   * Ver/Ocultar Método NOLTOK: El método NOLTOK añade unos botones a la pantalla. La función de estos es facilitar el snipeo haciendo uso del ratón. Actualmente el uso de las teclas está disponible para todos los jugadores y es mucho más rápido y efectivo, por lo tanto, solo se recomienda el uso de este si, por algún motivo concreto, no podemos hacer uso de las teclas.
 
@@ -20,3 +20,18 @@ Las herramientas son las más complejas, se encargan de realizar una acción esp
   * Lista de filtros de jugadores: Este botón debe usarse en el apartado de Buscar en Mercado. Es una opción muy útil que nos permite guardar los requisitos de búsqueda que tengamos establecidos para cargarlo en cualquier otro momento, agilizando así el proceso de cambio de filtros.
 
   * Calculadora de SBCs: Esta tecla nos abre una interfaz que, si bien, es más compleja que las anteriores, nos va a permitir ahorrar muchas monedas y tiempo a la hora de realizar SBCs. Vamos a detenernos un poco más en esta función para explicarla paso a paso.
+
+          1. En la primera casilla tenemos que introducir las medias de los jugadores que, sí o sí, queremos incluir en el SBC. Siempre separadas por una coma y, como en el ejemplo, si hay dos que se repiten, debemos incluir las dos.
+
+          2. En la segunda debemos establecer la media a la que tenemos que llegar.
+
+          3. Finalmente, tenemos que incluir las medias que nos gustaría usar para este SBC. En esta ocasión, igual que al principio, separadas por una coma, pero sin repetir, ya que las veces que podemos usar cada media están determinadas en el resultado que nos de esta calculadora.
+
+          4. Al final del todo, vemos como una tabla (que será más grande o más pequeña en función de los datos que hayamos establecido anteriormente) determina qué medias vamos a poder usar. Comenzando siempre de izquierda a derecha por la opción más beneficiosa para el jugador, ya que hace uso de una mayor cantidad de jugadores de menor media. Aunque el programa nos da todas las posibles, para que cada uno elija la que más le beneficie en función de los jugadores que tenga en el club y los que quiera comprar.
+
+          5. Ademas si ponemos el precio de la media, nos lo ordenara desde el sbc mas barato al mas caro.
+
+  ![Calculadora SBCs](/images/calcusbc.png)
+
+
+    * Modo Compacto: Este modo es otra de las grandes adiciones de Nokafut. Con diferencia, una de las peores características que tiene la web app de Ultimate Team es su interfaz, tan grande que muchas veces no permite mostrar todos los datos en pantalla. El modo compacto soluciona esto, haciendo que todo ocupe menos en pantalla, permitiendo que así se muestre más información.
