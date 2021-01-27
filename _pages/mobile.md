@@ -17,11 +17,11 @@ Podeis ver un video rápido aqui ... [Nokafut Android Mobile](https://twitter.co
 
   * Activar NokaCopy (Copiador de SBCs) en la página de agregar jugadores al SBC. Otra de las funciones de Nokafut relacionadas con los SBC, que nos ahorrarán mucho tiempo. Con esta opción activada, en la columna derecha nos aparecerán nuevas opciones:
 
-      * Abrir en futbin: Un enlace directo a FB con las soluciones correspondientes para el SBC. Solo tenemos que elegir una y copiar su enlace.
+    * Abrir en futbin: Un enlace directo a FB con las soluciones correspondientes para el SBC. Solo tenemos que elegir una y copiar su enlace.
 
-      * Una casilla en blanco: Pegamos el enlace en este hueco.
+    * Una casilla en blanco: Pegamos el enlace en este hueco.
 
-      * Copiar SBC: Pulsamos este botón y los jugadores aparecerán en la plantilla. En caso de tenerlos en el equipo se incluirá dicha carta, si no los tenemos, serán cartas conceptuales que podremos comprar en el mercado.
+    * Copiar SBC: Pulsamos este botón y los jugadores aparecerán en la plantilla. En caso de tenerlos en el equipo se incluirá dicha carta, si no los tenemos, serán cartas conceptuales que podremos comprar en el mercado.
 
   * Activar Mentalidades (tácticas) en la página de tácticas de la plantilla activa. Si activamos esta opción, en el menú de tácticas, dentro de plantillas, podemos guardar tácticas y mentalidades propias, para asignarlas más fácilmente a nuestras plantillas, así como descargar y aplicar algunas que usan proplayers.
 
