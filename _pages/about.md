@@ -9,15 +9,17 @@ author_profile: true
 
 <kbd>Nota aclaratoria: Nokafut en ningún momento hace uso de bots u otro tipo de elemento ilegal</kbd>.
 
-Para ello tiene atajos, que son las acciones que hace el usuario con el ratón hacerla con teclas de tu teclado. Se puede configurar como uno quiera, y es muy facil de utilizar. Tambien tiene otras funcionalidades que te haran usar mucho mas facil la WebApp.
 
-Descarga e Instalación
+
+COMO INSTALAR
 ======
-Para descargar e instalar la extensión debes ir a [Nokafut Chrome Extension](https://chrome.google.com/webstore/detail/noka-fut-tweak/lphngfbnndkhdbmbgnlnhngihcpofkno) y pulsar "Añadir a Chrome" y ya la tendrás activa ![Añadir a Chrome](/images/anadirchrome.png)
+Para instalarla, simplemente debemos acudir a [Nokafut Chrome Extension](https://chrome.google.com/webstore/detail/noka-fut-tweak/lphngfbnndkhdbmbgnlnhngihcpofkno) y pulsar en “Añadir a Chrome”. Tras esto, ya estará activa y solo tendremos que acudir a la web app para poder hacer uso de ella.
+
+![Añadir a Chrome](/images/anadirchrome.png)
 
 
-Configuración
+CONFIGURACIÓN
 ======
-Para configurar solo debes agregar teclas de tu teclado a las acciones que quieras hacer. Acuerdate de dar a guardar despues de agregar todas las teclas. Recuerda que esto debes hacerlo siempre con la WebApp abierta.
-
-Esta extension esta en Ingles y Español. Esta ayuda esta solamente en Español. Utiliza Google Translate para traducirla.
+Una vez en la [WebApp de FIFA21](https://www.ea.com/en-gb/fifa/ultimate-team/web-app/) podremos configurar las diferentes opciones que nos da la extensión, ya sean funciones de teclas o las funciones premium. Muy importante, hay que darle a guardar SIEMPRE, después de cualquier modificación, además de hacer las mismas con la WebApp abierta.
+La extensión está disponible tanto en inglés como español. Actualmente la información sólo se encuentra disponible en español, puedes traducirla con Google Translate.
+The addon is alvaiable in English and Spanish. Now, this info is only available in Spanish, you can translate it using Google Translate.
