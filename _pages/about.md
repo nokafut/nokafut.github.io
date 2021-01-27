@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "¿Que es Nokafut? ¿Para que sirve?"
+title: "NokaFut"
 excerpt: "NokaFut"
 author_profile: true
 ---
