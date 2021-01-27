@@ -9,6 +9,10 @@ author_profile: true
 
 Nokafut es completamente gratis, pero algunas funciones han costado desarrollarlas bastantes, por eso he tenido que poner algunas cosas de pago. Cogiendo la version PREMIUM colaboras con el desarrollador para que sigue mejorando la extension.
 
+Para poder tener esta versión, debereis ir a la seccion PREMIUM de la extension. Por ahora solo esta disponible pago por PayPal
+
+A continuación algunas caracteristicas de esta version.
+
   * Activa la compra automática y no tendrás que confirmar al comprar. Lo más rápido para Snipear. Al activar esta opción, no tendremos que pulsar la tecla de confirmar compra tras darle a “Comprar ya”, ahorrándonos así unos segundos muy valiosos a la hora snipear.
 
   * Reinicio de puja mínima cuando esta sea igual o superior al precio de compra ya. No tendrás que reiniciar la puja mínima. Para snipear jugadores, es común ir subiendo el precio de la puja, para que el mercado se vaya actualizando.
