@@ -6,39 +6,34 @@ author_profile: true
 ---
 
 
-### Importante, antes de nada
+Nokafut tiene dos tipos de funcionalidades, las básicas, que son comunes para todos y las Premium, para aquellos que decidan pagar la suscripción, cuyo precios podéis ver en el apartado Premium de la misma. A continuación, vamos a explicar <b>las básicas</b>, cada una con un uso concreto, pero partiendo todas de la misma base, <b>asignar una función concreta a la tecla del teclado que elijamos</b>. Algo que nos permite movernos por los diferentes menús, cartas, comprar, pujar, etc … de una forma mucho más ágil de la que nos permite el ratón.
 
-Cada atajo funciona en una pagina diferente, los atajos de buscar, puja minima/maxima y demas se usan en la pagina correspondiente. Por ejemplo el atajo de ver el numero total de no asignados se usa en la pagina de "No asignados". Los atajos son botones que se usan con las teclas.
+<b>IMPORTANTE: GUARDAR SIEMPRE DESPUÉS DE ELEGIR CADA CONFIGURACIÓN DE LA EXTENSIÓN.</b>
 
-### Atajos
+### MERCADO DE TRANSFERENCIAS
 
-| Nombre            | Tipo   | ¿Donde se usa? Mas...                                               |
-| --------         | ------ | ------------------------------------------------------------ |
-| Buscar    | FREE   | Se usa en la pagina de búsqueda de transferencias                          |
-| Puja Minima (+/-)    | FREE   | Se usa en la pagina de búsqueda de transferencias                         |
-| Puja Maxima (+/-)     | FREE   | Se usa en la pagina de búsqueda de transferencias                        |
-| Compra ya minima (+/-)     | FREE   | Se usa en la pagina de búsqueda de transferencias                         |
-| Compra ya maxima (+/-)      | FREE   | Se usa en la pagina de búsqueda de transferencias                        |
-| Ir a ver el precio     | FREE   |  Se usa cuando has seleccionado una carta de jugador, vas a ver el precio en FUTBIN                          |
-| Compra ya     | FREE   | Se usa en resultados de búsqueda para pulsar el botón de compra ya                          |
-| Pujar     | FREE   | Se usa en resultados de búsqueda para pulsar de pujar                          |
-| Pujar (Puja Maxima)     | FREE   | Se puja por el precio que pusiste en Puja maxima, se usa en la pagina de transferencias                           |
-| Confirmar Compra     | FREE   | Se usa en resultados de búsqueda para confirmar la compra                          |
-| Comparar precio     | FREE   | Se usa en resultados de búsqueda para pulsar de pujar                          |
-| Enviar a lista de transferibles     | FREE   | Cuando se adquiere una carta, pulsando el atajo se envía a la lista de transferibles                           |
-| Enviar al club     | FREE   | Cuando se adquiere una carta, pulsando el atajo se envía al club                          |
-| Seguir     | FREE   | Se usa cuando has seleccionado una carta de jugador, das al botón seguir                          |
-| Atrás     | FREE   | Sirve para pulsar el botón de navegación Atras                         |
-| Anterior/Siguiente pagina     | FREE   | En la lista de cartas pasar paginas hacia adelante o hacia detrás                           |
-| Anterior/Siguiente carta     | FREE   | En la lista de cartas pasar cartas hacia arriba o hacia abajo                           |
-| Ver/Ocultar Metodo NOLTOK     | FREE   | Se activa en la pagina de búsqueda de transferencias                           |
+<b>Las siguientes funciones se realizan en la pestaña de BUSCAR EN MERCADO</b> que se encuentra, a su vez, en la de TRASPASOS. Concretamente haremos uso de los botones que se encuentra en la mitad inferior de la pantalla, que sirven para aumentar o disminuir el precio de las búsquedas que vamos a realizar, así como el propio botón de buscar.
 
+  * Buscar: Buscaremos jugadores según los criterios que hayamos establecido con anterioridad.
+  * Puja Mínima (+): Aumentaremos el precio mínimo de la carta en “pujar”.
+  * Puja Mínima (-): Disminuiremos el precio mínimo de la carta en “pujar”.
+  * Puja Máxima (+): Aumentaremos el precio máximo de la carta en “pujar”.
+  * Puja Máxima (-): Disminuiremos el precio máximo de la carta en “pujar”.
+  * Compra Mínima (+): Aumentaremos el precio mínimo de la carta en “comprar ya”.
+  * Compra Mínima (-): Disminuiremos el precio mínimo de la carta en “comprar ya”.
+  * Compra Máxima (+): Aumentaremos el precio máximo de la carta en “comprar ya”.
+  * Compra Máxima (-): Disminuiremos el precio máximo de la carta en “comprar ya”.
 
-### Herramientas
+### OPCIONES DE ARTÍCULO
 
-Hay diferentes herrramientas que te ayudaran en la WebApp ......
+  * Ir a ver el precio: Cuando tenemos seleccionada una carta y pulsamos esta tecla, automáticamente se nos abre otra pestaña de FB en la que podemos comprobar el precio actual de la misma.
+  * Ver precio Nokafut (Especiales): Esta nueva función, nos muestra en pantalla, sin tener que acudir a webs externas el precio de las cartas. Por ahora solo se encuentra disponible para algunas cartas especiales.
+  * Ver precio lista: Esta es una mejora de la primera opción de este bloque. Cuando pulsemos esta tecla podremos ver el precio de las cartas en FB en la propia lista de transferibles, justo al lado del precio a comprar, agilizando así el proceso de verificación de precios.
+  * Compra ya: Esta tecla es una de las más importantes a la hora de investigar el mercado. Nos permite comprar la carta que tenemos seleccionada. Hay que recordar que se antes se nos abrirá la pantalla de confirmar compra, por lo que es muy recomendable tener las dos en la misma tecla.
+  * Pujar: Con este botón, estableceremos una puja inmediatamente superior a la que haya en dicho momento. Es decir, si la puja actual está en 400 monedas, nosotros pujaremos por 450.
+  * Pujar (Puja Máxima): Esta característica implementa una función muy útil si queremos hacer pujas masivas por jugadores, la mejor forma de entenderlo es con un ejemplo. En el caso de la imagen, buscamos jugadores de la Liga Santander por los que estamos dispuestos a pujar un máximo de 450 monedas. Si pulsamos esta tecla, teniendo seleccionado un jugador, automáticamente se pujará la cantidad que hayamos seleccionado en puja máxima, en este caso 450 monedas.
 
-
+![Puja Maxima](/images/pujamaxima.png)
 
 ### Funciones
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "NokaFut"
+title: "NOKAFUT"
 excerpt: "NokaFut"
 author_profile: true
 ---
@@ -22,5 +22,8 @@ CONFIGURACIÓN
 ======
 Una vez en la [WebApp de FIFA21](https://www.ea.com/en-gb/fifa/ultimate-team/web-app/) podremos configurar las diferentes opciones que nos da la extensión, ya sean funciones de teclas o las funciones premium. <b>Muy importante, hay que darle a guardar SIEMPRE, después de cualquier modificación, además de hacer las mismas con la WebApp abierta.</b>
 
+![Configurar](/images/config.png)
+
 La extensión está disponible tanto en inglés como español. Actualmente la información sólo se encuentra disponible en español, puedes traducirla con Google Translate.
+
 The addon is alvaiable in English and Spanish. Now, this info is only available in Spanish, you can translate it using Google Translate.
