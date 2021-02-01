@@ -28,3 +28,7 @@ A continuación algunas caracteristicas de esta version.
   * Activar <p>Mentalidades</p> (tácticas) en la página de tácticas de la plantilla activa. Si activamos esta opción, en el menú de tácticas, dentro de plantillas, podemos guardar tácticas y mentalidades propias, para asignarlas más fácilmente a nuestras plantillas, así como descargar y aplicar algunas que usan proplayers.
 
   * Activar <p>modo Mobile</p> (ANDROID), para poder Snipear en navegadores que soportan Chrome Extensions. Esta opción nos permite snipear desde nuestro smartphone. A continuación, dedicamos un punto exclusivo a explicar esta función, ya que es más compleja que el resto. [MODO MOBILE](https://nokafut.github.io/mobile/)
+
+  * Desactivar <p>Precios en versiones</p> Si desactivas esto no veras los precios de las cartas en las diferentes versiones.
+
+  ![Versiones Cartas Premium](/images/preciosVersiones.png)
