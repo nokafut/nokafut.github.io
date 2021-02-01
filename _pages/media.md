@@ -11,5 +11,5 @@ author_profile: true
 
 En esta pagina añadiremos videos y/o imagenes importantes para ver y aprender las funcionalidades de NOKAFUT
 
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+SNIPEANDO
+[![Snipeando Nokafut](./images/maroSnipeando.png)](https://www.youtube.com/watch?v=8-fVReDC__M)
