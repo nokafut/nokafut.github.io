@@ -5,8 +5,6 @@ excerpt: "NokaFut Premium"
 author_profile: true
 ---
 
-### PREMIUM
-
 Nokafut es completamente gratis, pero algunas funciones han costado desarrollarlas bastantes, por eso he tenido que poner algunas cosas de pago. Cogiendo la version PREMIUM colaboras con el desarrollador para que sigue mejorando la extension.
 
 Para poder tener esta versión, debereis ir a la seccion PREMIUM de la extension. Por ahora solo esta disponible pago por PayPal
