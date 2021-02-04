@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-
 En esta pagina añadiremos videos y/o imagenes importantes para ver y aprender las funcionalidades de NOKAFUT
 
 ### VIDEO SNIPEANDO
