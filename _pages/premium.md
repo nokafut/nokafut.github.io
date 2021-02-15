@@ -11,7 +11,7 @@ Para poder tener esta versión, debereis ir a la seccion PREMIUM de la extension
 
 Para activar tu cuenta PREMIUM debes agregar en la seccion PREMIUM tu codigo de id de perfil de pago (I-XXXXXXXX). Puedes usar tu PREIMUM en mas de una cuenta pero solo una a la misma vez.
 
-[ACTIVAR PREMIUM](../images/premium.png)
+[ACTIVAR PREMIUM](/images/premium.png)
 
 A continuación algunas caracteristicas de esta version.
 
